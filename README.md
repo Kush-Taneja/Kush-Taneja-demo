@@ -1,4 +1,4 @@
 # Kush-Taneja-demo
 first repo
 <br>
-Author = KUsh
+Author = KUsh taneja
